@@ -1,0 +1,7 @@
+name = "worker"
+compatibility_date = "2023-07-02"
+
+[[d1_databases]]
+binding = "D1"
+database_name = "D1"
+database_id = "9784b7da-30a0-4bf7-9ac5-3e46e4220450"
